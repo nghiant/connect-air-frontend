@@ -2582,8 +2582,8 @@
     "coordinator_type": "Coordinator type",
     "donate": "Donate",
     "donation_text": [
-      "Hello, %username%, here you can thank us for all the hard work",
-      "Don't hesitate to say something nice as well ;)"
+      "Hello, %username%, ở đây bạn có thể cảm ơn chúng tôi vì tất cả những công việc khó khăn",
+      "Đừng ngần ngại nói điều gì đó tốt đẹp nữa ;)"
     ],
     "download_state": "Download state",
     "experimental": "Experimental",
@@ -2909,7 +2909,7 @@
     "Experimental (deprecated)": "Experimental (deprecated)",
     "Whitelist (deprecated, use passlist)": "Whitelist (deprecated, use passlist)",
     "Ban (deprecated, use blocklist)": "Ban (deprecated, use blocklist)",
-    "Friendly name": "Friendly name",
+    "Friendly name": "Tên thiết bị",
     "Retain": "Retain",
     "Disabled": "Disabled",
     "Retention": "Retention",

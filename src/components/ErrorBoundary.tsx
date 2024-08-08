@@ -37,7 +37,7 @@ export default class ErrorBoundary extends React.Component<ErrorBoundaryProps, E
                 ].join('\n'),
             } as Record<string, string>;
 
-            const githubUrl = `https://github.com/nurikk/zigbee2mqtt-frontend/issues/new?${new URLSearchParams(
+            const githubUrl = `https://github.com/nghiant/connect-air-frontend//issues/new?${new URLSearchParams(
                 githubUrlParams,
             ).toString()}`;
             return (
